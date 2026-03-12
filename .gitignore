@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files (keep structure, but do not commit raw dataset)
+data/online_retail.csv
+online_retail_II.csv
+
+# Outputs (keep the dashboard HTML committed)
+output/*.log
